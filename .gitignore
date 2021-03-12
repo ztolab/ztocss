@@ -1,0 +1,9 @@
+.DS_Store
+.ruby-version
+npm-debug.log
+
+.idea/
+.sass-cache
+.vscode
+node_modules
+docs
