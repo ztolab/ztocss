@@ -1,6 +1,6 @@
 {
   "name": "ztocss",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "A CSS generator",
   "main": "./ztoo.js",
   "repository": {
